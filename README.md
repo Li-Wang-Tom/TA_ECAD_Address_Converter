@@ -101,7 +101,8 @@ TA_ECAD_Address_Converter/
 ├─ README.md                            # このファイル
 ├─ TA_ECAD_Address_Converter Manual.md  # 詳細マニュアル
 ├─ LICENSE                              # ライセンス
-├─ TA_icon.ico                          # アプリケーションアイコン
+└─ TA_icon.ico                          # アプリケーションアイコン
+
 
 ```
 
